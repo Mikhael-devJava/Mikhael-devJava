@@ -3,7 +3,7 @@
 ## Sobre mim
 Meu nome é **Mikhael** e sou estudante de **TI** desde junho de 2025.  
 Sou focado principalmente em **backend com Node.js**, mas estou sempre explorando novas tecnologias e frameworks para expandir meu conhecimento. 🚀  
-Estou em busca de desafios e oportunidades para aprender cada vez mais, então se você tem algum projeto interessante, bora trocar ideia!  
+Estou em busca de desafios e oportunidades para aprender cada vez mais, então se você tem algum projeto interessante, pode me chamar!  
 
 ---
 ## 🛠️ Linguagens e Tecnologias
