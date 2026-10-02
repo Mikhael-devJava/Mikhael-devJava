@@ -1,4 +1,4 @@
-# Olá, eu sou Mikhael 👋
+# Olá, Me Chamo Mikhael
 
 ## Sobre mim
 Meu nome é **Mikhael** e sou estudante de **TI** desde junho de 2025.  
